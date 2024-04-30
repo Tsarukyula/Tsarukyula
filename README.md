@@ -1,12 +1,12 @@
 ### Hi there 👋, I`m Yuliia
-#### _______________________________________________________________________________________________________________________________________________________
+#### ___________________________________________________________________________________________________________________________________________________
 ### About me
 #### 🔭 I’m currently working on improving my test automation skills and learning new tools for it.
 #### 🌱 I’m currently learning various testing methodologies and practicing them in real projects. 
 #### 👯 I’m looking to collaborate on projects related to test automation and product quality improvement.
 #### 📫 You can reach me through my GitHub profile or by sending me an email at tsarukyula87@gmail.com.
 #### ⚡ Fun fact: I find joy in embracing new challenges and learning opportunities
-#### _______________________________________________________________________________________________________________________________________________________
+#### ___________________________________________________________________________________________________________________________________________________
 ### For work I use
 #### Selenium, API-REST, TestNG, Gradle, Maven, Cucumber(Gherkin), Junit, Jira, TestLink, Jenkins, Postman, Git/GitHub, MindMup, Datenbanken SQL, PostgreSQL
 
