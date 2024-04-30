@@ -1,9 +1,7 @@
 ### Hi there 👋, I`m Yuliia
-#### ________________________________________________________________________________________________________________________________________________
 ### I`m a QA Manual and Automation Tester from Berlin
 #### ________________________________________________________________________________________________________________________________________________
 ### About me
-#### ________________________________________________________________________________________________________________________________________________
 #### 🔭 I’m currently working on improving my test automation skills and learning new tools for it.
 #### 🌱 I’m currently learning various testing methodologies and practicing them in real projects. 
 #### 👯 I’m looking to collaborate on projects related to test automation and product quality improvement.
@@ -11,7 +9,6 @@
 #### ⚡ Fun fact: I find joy in embracing new challenges and learning opportunities
 #### ________________________________________________________________________________________________________________________________________________
 ### For work I use
-#### ________________________________________________________________________________________________________________________________________________
 #### Selenium, API-REST, TestNG, Gradle, Maven, Cucumber(Gherkin), Junit, Jira, TestLink, Jenkins, Postman, Git/GitHub, MindMup, Datenbanken SQL, PostgreSQL
 
 
